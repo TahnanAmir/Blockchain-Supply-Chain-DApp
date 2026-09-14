@@ -248,9 +248,3 @@ npm run lint      # Run ESLint
 - Transfers follow a strict state machine — invalid role transitions are rejected
 - Private keys and API credentials must be stored in `.env` and never committed to version control
 - This project is deployed on a **testnet** and is intended for educational and demonstration purposes
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
